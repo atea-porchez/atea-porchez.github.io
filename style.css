@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 54px;
+    color: azure;
+    text-align: right;
+    padding: 0%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+}
+
+img {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    color: azure;
+    text-align: left;
+    max-width: 100%;
+    margin-right: 0%;
+}
